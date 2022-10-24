@@ -1,0 +1,17 @@
+{
+  "name": "lottoup0first0test",
+  "main": "lottovip",
+  "theme": "syntax",
+  "version": "1.1.1",
+  "description": "lottoup เว็บแทงหวยออนไลน์มาใหม่ ที่รับแทงหวยไม่อั้น ใครที่กำลังมองหาเว็บแทงหวยดีๆ ต้องที่นี่ ฝากขถอนเร็ว บริการ 24",
+  "keywords": [
+    "lottoup",
+    "เว็บแทงหวยออนไลน์",
+    "แทงหวยเว็บไหนดี"
+  ],
+  "repository": "https://github.com/deverlop12/lottoup0first0test",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
