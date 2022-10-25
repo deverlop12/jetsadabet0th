@@ -1,15 +1,15 @@
 {
-  "name": "ชัดเจนเบท CHUDJENBET เว็บแทงหวยออนไลน์ เว็บไหนดีต้องเว็บนี้ ไม่มีอั้น",
-  "main": "lottovip",
+  "name": "JETSADABET",
+  "main": "jetsadabet",
   "theme": "syntax",
   "version": "1.1.2",
-  "description": "lottoup เว็บแทงหวยออนไลน์มาใหม่ ที่รับแทงหวยไม่อั้น ใครที่กำลังมองหาเว็บแทงหวยดีๆ ต้องที่นี่ ฝากขถอนเร็ว บริการ 24",
+  "description": "jetsadabet เจษฎาเบท เว็บซื้อหวยออนไลน์เบอร์ 1 ในไทย เปิดมานานกว่า 10 ปี ก่อนเว็บหวยแดง มั่นคงปลอดภัย",
   "keywords": [
-    "lottoup",
-    "เว็บแทงหวยออนไลน์",
-    "แทงหวยเว็บไหนดี"
+    "เจษฎาเบท",
+    "jetsadabet",
+    "jetsada"
   ],
-  "repository": "https://github.com/deverlop12/lottoup0first0test",
+  "repository": "https://github.com/deverlop12/jetsadabet0th",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
